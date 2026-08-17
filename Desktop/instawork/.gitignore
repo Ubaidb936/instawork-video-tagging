@@ -1,0 +1,23 @@
+# Env
+backend/.env
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+dist/
+.DS_Store
+
+# Docker volumes / uploads
+backend/uploads/
+
+# Misc
+*.log
+*.swp
